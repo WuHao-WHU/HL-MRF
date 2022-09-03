@@ -10,5 +10,5 @@ Contributors:[Hao Wu (吴豪)](https://github.com/WuHao-WHU)，[Pengcheng Wei (�
 
 
 ## Code & Paper
-The proposed framework will be available soon.
+The proposed framework will be available in conjunction with the paper.
 
