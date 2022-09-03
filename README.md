@@ -6,7 +6,7 @@ HL-MRF can automatically perform the point-cloud-based registration for large-sc
 
 
 
-Contributors:[Hao Wu (吴豪)](https://github.com/WuHao-WHU)，[Pengcheng Wei](https://github.com/WPC-WHU)
+Contributors:[Hao Wu (吴豪)](https://github.com/WuHao-WHU)，[Pengcheng Wei (韦朋成)](https://github.com/WPC-WHU)
 
 
 ## Code & Paper
