@@ -15,6 +15,8 @@ Two key features in HL-MRF are:
 > * A loop-based coarse registration method to remove grossly wrong pairwise registration results caused by ambiguous scanning content.
 
 ## Demo
+### Pipline
+![registration](./doc/img/registration.gif)
 ### ETH TLS Datasets
 ![ETH](./doc/img/exp5.png)
 ![ETH](./doc/img/exp6.png)
