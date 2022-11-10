@@ -21,6 +21,7 @@ HL-MRF can automatically perform the point-cloud-based registration for large-sc
 Two key features in HL-MRF are:
 > * An internal scan-block and block-to-block registration strategy to hierarchically align point clouds of large-scale TLS scans.
 > * A loop-based coarse registration method to remove grossly wrong pairwise registration results caused by ambiguous scanning content.
+
 ![WHU](./doc/img/Overview-full.png)
 
 ## Demo
