@@ -20,7 +20,7 @@
 * [2022-11-19] The paper has been published online! Check [here](https://authors.elsevier.com/a/1g6bm_L0-WAwZZ) to get it.
 * [2022-11-8] Our paper has been accpeted by ***ISPRS*** (International Society for Photogrammetry and Remote Sensing) !
 * [2022-5-27] Submit the manuscript to the journal.
-
+ 
 ## Hierarchical Loop-based Multiview Registration Framework
 HL-MRF can automatically perform the point-cloud-based registration for large-scale TLS scans without any artificial target. The main focus of our framework lies in the efficiency of processing large-scale TLS scans and being able to tolerate pairwise registration failure for robustness. The proposed hierarchical registration strategy and the loop-based coarse registration method deal with them respectively.
 
