@@ -774,7 +774,7 @@ void WHU::HL_MRF::pairwiseICP(std::vector<std::vector<size_t>>& edges,
 				pcl::copyPointCloud(*clouds[after_check_graph_pairs[edges[f][i]].first], *temp);
 				pcl::copyPointCloud(*clouds[after_check_graph_pairs[edges[f][i]].second], *temp2);
 
-				pcl::transformPointCloud(*temp, *temp, after_check_matches[edges[f][i]].transformation);
+				// pcl::transformPointCloud(*temp, *temp, after_check_matches[edges[f][i]].transformation);
 				// CCCoreLib::ICPRegistrationTools::Parameters params;
 				// params.finalOverlapRatio = approx_overlap;
 				// params.maxThreadCount = 1;
